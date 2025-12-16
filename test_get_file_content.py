@@ -5,6 +5,7 @@ test_file_paths = [
     ["calculator", "main.py"],
     ["calculator", "../main.py"],
     ["calculator", "test/test/test/pkg/calculator.py"],
+    ["calculator", "pkg/calculator.py"],
     ["calculator", "/bin/cat"],
     ["calculator", "pkg/does_not_exist.py"],
 ]
